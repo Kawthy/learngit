@@ -1,2 +1,6 @@
 Git is a version control system.
-Git is freeasdasff
+<<<<<<< HEAD
+Git is freetojk
+=======
+Git is free
+>>>>>>> dev
